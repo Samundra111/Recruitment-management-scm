@@ -2,3 +2,8 @@ Recruitment Management System
 
 This project demonstrates software configuration
 management using Git and GitHub.
+
+Features:
+- Candidate registration
+- Job search
+- Job application
