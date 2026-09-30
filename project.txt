@@ -7,3 +7,5 @@ Features:
 - Candidate registration
 - Job search
 - Job application
+
+Validation for candidate registration updated.
